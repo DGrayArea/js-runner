@@ -1,0 +1,318 @@
+[
+    {
+        "domain": {
+            "name": "DepositWallet",
+            "version": "1",
+            "chainId": 137,
+            "verifyingContract": "0x7ccae8045c8c96f256360868c7e9aa1b51776af1"
+        },
+        "message": {
+            "wallet": "0x7ccae8045c8c96f256360868c7e9aa1b51776af1",
+            "nonce": "0",
+            "deadline": "1781521679",
+            "calls": [
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b30000000000000000000000004d97dcd97ec945f40cf65f87097ace5ea0476045ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000e111180000d2663c0091e4f400237545b87b996bffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000e111180000d2663c0091e4f400237545b87b996b0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000e2222d279d744050d28e00520010520000310f59ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000d91e80cf2e7be2e162c6513ced06f1dd0da35296ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000e2222d279d744050d28e00520010520000310f590000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000d91e80cf2e7be2e162c6513ced06f1dd0da352960000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                    "value": "0",
+                    "data": "0x095ea7b300000000000000000000000093070a847efef7f70739046a929d47a521f5b8eeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000ada100db00ca00073811820692005400218fce1fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000ada2005600dec949baf300f4c6120000bdb6eaabffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000ada100db00ca00073811820692005400218fce1f0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000ada2005600dec949baf300f4c6120000bdb6eaab0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x006F54F7f9A22e0000CC2AB60031000000ae9fEF",
+                    "value": "0",
+                    "data": "0xa22cb46500000000000000000000000012121212006e4cd160d18e3f00711da5c33726000000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x006F54F7f9A22e0000CC2AB60031000000ae9fEF",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000a1200000d0002264c9a1698e001292d00e1b00af0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000e3333700ca9d93003f00f0f71f8515005f6c00aaffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b300000000000000000000000012121212006e4cd160d18e3f00711da5c3372600ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0x006F54F7f9A22e0000CC2AB60031000000ae9fEF",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000e3333700ca9d93003f00f0f71f8515005f6c00aa0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000a1200000d0002264c9a1698e001292d00e1b00af0000000000000000000000000000000000000000000000000000000000000001"
+                }
+            ]
+        },
+        "primaryType": "Batch",
+        "types": {
+            "EIP712Domain": [
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "version",
+                    "type": "string"
+                },
+                {
+                    "name": "chainId",
+                    "type": "uint256"
+                },
+                {
+                    "name": "verifyingContract",
+                    "type": "address"
+                }
+            ],
+            "Call": [
+                {
+                    "name": "target",
+                    "type": "address"
+                },
+                {
+                    "name": "value",
+                    "type": "uint256"
+                },
+                {
+                    "name": "data",
+                    "type": "bytes"
+                }
+            ],
+            "Batch": [
+                {
+                    "name": "wallet",
+                    "type": "address"
+                },
+                {
+                    "name": "nonce",
+                    "type": "uint256"
+                },
+                {
+                    "name": "deadline",
+                    "type": "uint256"
+                },
+                {
+                    "name": "calls",
+                    "type": "Call[]"
+                }
+            ]
+        }
+    },
+    {
+        "domain": {
+            "name": "DepositWallet",
+            "version": "1",
+            "chainId": 137,
+            "verifyingContract": "0x7ccae8045c8c96f256360868c7e9aa1b51776af1"
+        },
+        "message": {
+            "wallet": "0x7ccae8045c8c96f256360868c7e9aa1b51776af1",
+            "nonce": "0",
+            "deadline": "1781521748",
+            "calls": [
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b30000000000000000000000004d97dcd97ec945f40cf65f87097ace5ea0476045ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000e111180000d2663c0091e4f400237545b87b996bffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000e111180000d2663c0091e4f400237545b87b996b0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000e2222d279d744050d28e00520010520000310f59ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000d91e80cf2e7be2e162c6513ced06f1dd0da35296ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000e2222d279d744050d28e00520010520000310f590000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000d91e80cf2e7be2e162c6513ced06f1dd0da352960000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                    "value": "0",
+                    "data": "0x095ea7b300000000000000000000000093070a847efef7f70739046a929d47a521f5b8eeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000ada100db00ca00073811820692005400218fce1fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000ada2005600dec949baf300f4c6120000bdb6eaabffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000ada100db00ca00073811820692005400218fce1f0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000ada2005600dec949baf300f4c6120000bdb6eaab0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x006F54F7f9A22e0000CC2AB60031000000ae9fEF",
+                    "value": "0",
+                    "data": "0xa22cb46500000000000000000000000012121212006e4cd160d18e3f00711da5c33726000000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x006F54F7f9A22e0000CC2AB60031000000ae9fEF",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000a1200000d0002264c9a1698e001292d00e1b00af0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b3000000000000000000000000e3333700ca9d93003f00f0f71f8515005f6c00aaffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+                    "value": "0",
+                    "data": "0x095ea7b300000000000000000000000012121212006e4cd160d18e3f00711da5c3372600ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+                },
+                {
+                    "target": "0x006F54F7f9A22e0000CC2AB60031000000ae9fEF",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000e3333700ca9d93003f00f0f71f8515005f6c00aa0000000000000000000000000000000000000000000000000000000000000001"
+                },
+                {
+                    "target": "0x4D97DCd97eC945f40cF65F87097ACe5EA0476045",
+                    "value": "0",
+                    "data": "0xa22cb465000000000000000000000000a1200000d0002264c9a1698e001292d00e1b00af0000000000000000000000000000000000000000000000000000000000000001"
+                }
+            ]
+        },
+        "primaryType": "Batch",
+        "types": {
+            "EIP712Domain": [
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "version",
+                    "type": "string"
+                },
+                {
+                    "name": "chainId",
+                    "type": "uint256"
+                },
+                {
+                    "name": "verifyingContract",
+                    "type": "address"
+                }
+            ],
+            "Call": [
+                {
+                    "name": "target",
+                    "type": "address"
+                },
+                {
+                    "name": "value",
+                    "type": "uint256"
+                },
+                {
+                    "name": "data",
+                    "type": "bytes"
+                }
+            ],
+            "Batch": [
+                {
+                    "name": "wallet",
+                    "type": "address"
+                },
+                {
+                    "name": "nonce",
+                    "type": "uint256"
+                },
+                {
+                    "name": "deadline",
+                    "type": "uint256"
+                },
+                {
+                    "name": "calls",
+                    "type": "Call[]"
+                }
+            ]
+        }
+    }
+]
