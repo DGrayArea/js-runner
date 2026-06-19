@@ -2,6 +2,7 @@ import Sprite from "@/components/sprite";
 import { Controls } from "@/components/Controls";
 import Background from "@/components/background";
 import Enemies from "@/components/enemies";
+import Collision from "@/components/collision";
 
 export default function Home() {
   return (
@@ -10,7 +11,8 @@ export default function Home() {
       {/* <Sprite />
       <Controls /> */}
 
-      <Enemies />
+      {/* <Enemies /> */}
+      <Collision />
     </div>
   );
 }
