@@ -49,3 +49,5 @@ export const ASSET_LAYER_2_1 = "/assets/background/layer_2_1.png";
 export const ASSET_LAYER_5_1 = "/assets/background/layer_5_1.png";
 export const ASSET_LAYER_4_1 = "/assets/background/layer_4_1.png";
 export const ASSET_ENEMY1 = "/assets/enemies/enemy1.png";
+export const ASSET_ICE_BLAST =
+  "/assets/sounds/Magic SFX Preview Pack/Ice attack 2.wav";

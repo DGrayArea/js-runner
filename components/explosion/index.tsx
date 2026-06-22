@@ -1,10 +1,9 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { CANVAS_WIDTH, CANVAS_HEIGHT } from "@/lib/constants";
-import { startAnimation } from "@/components/collision/animation";
+import { startAnimation } from "@/components/explosion/animation";
 
-export default function Collision() {
+export default function Explosion() {
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const ctxRef = useRef<CanvasRenderingContext2D | null>(null);
 
@@ -25,8 +24,8 @@ export default function Collision() {
       <canvas
         ref={canvasRef}
         id="canvas1"
-        width={CANVAS_WIDTH}
-        height={CANVAS_HEIGHT}
+        width={500}
+        height={700}
         className="border-2 border-zinc-950 bg-white"
       ></canvas>
     </div>

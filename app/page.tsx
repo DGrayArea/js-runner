@@ -3,6 +3,8 @@ import { Controls } from "@/components/Controls";
 import Background from "@/components/background";
 import Enemies from "@/components/enemies";
 import Collision from "@/components/collision";
+import Explosion from "@/components/explosion";
+import Raven from "@/components/raven";
 
 export default function Home() {
   return (
@@ -12,7 +14,9 @@ export default function Home() {
       <Controls /> */}
 
       {/* <Enemies /> */}
-      <Collision />
+      {/* <Collision /> */}
+      {/* <Explosion /> */}
+      <Raven />
     </div>
   );
 }
